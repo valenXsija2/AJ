@@ -37,3 +37,6 @@ jobs:
 
       - name: Proses Tambahan
         run: date
+        
+      - name: jalankan code
+        run: python nama.py
